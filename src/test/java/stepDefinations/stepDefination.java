@@ -46,6 +46,7 @@ public class stepDefination extends base {
     public void verify_that_user_is_successfully_logged_in() throws Throwable {
      System.out.println("Successfully logged in");
      System.out.println("successfully logged in");
+     System.out.println("Successfully logged in");
     }
 
     @And("^Close browsers$")
